@@ -56,10 +56,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/riccardotolusso/riccardotolusso/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="center">GET IN TOUCH</h3>
 
 ###
